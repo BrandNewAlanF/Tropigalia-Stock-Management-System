@@ -1,0 +1,11 @@
+300112233 | Hotel Polana | Horeca | Av. Julius Nyerere, Maputo | f&b@hotelpolana.co.mz | +258 21241000 | À la Carte
+300223344 | Restaurante Mundos | Horeca | Av. Eduardo Mondlane, Maputo | reservas@mundos.co.mz | +258 21494063 | Buffet
+300334455 | Southern Sun Maputo | Horeca | Av. Marginal, Maputo | ss.maputo@tsogosun.com | +258 21495050 | Eventos/Buffet
+300445566 | Café Continental | Horeca | Av. 25 de Setembro, Maputo | continental@clix.co.mz | +258 21303030 | Serviço Rápido
+300556677 | Restaurante Piri-Piri | Horeca | Av. 24 de Julho, Maputo | piripiri@teledata.mz | +258 21492379 | À la Carte
+300667788 | Hotel Avenida | Horeca | Av. Julius Nyerere, Maputo | avenida.rest@hotelavenida.co.mz | +258 21484400 | Gourmet
+300778899 | Pastelaria Cristal | Horeca | Av. 24 de Julho, Maputo | cristal@cristal.co.mz | +258 21491515 | Balcão
+300889900 | Burger King MZ | Horeca | Baixa de Maputo | bk.baixa@bk.co.mz | +258 841113333 | Fast Food
+300990011 | Radisson Blu Hotel | Horeca | Av. Marginal, Maputo | info.maputo@radissonblu.com | +258 21242900 | À la Carte
+301001122 | Restaurante Sagres | Horeca | Av. Marginal, Maputo | sagres.rest@gmail.com | +258 21495533 | Marisqueira
+301112233 | KFC Maputo Shopping | Horeca | Av. 25 de Setembro, Maputo | kfc.mpts@kfc.co.za | +258 842224444 | Fast Food

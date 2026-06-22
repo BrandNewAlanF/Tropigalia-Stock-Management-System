@@ -1,0 +1,12 @@
+101|Champô|Champô Head & Shoulders|400ml Anticaspa|Cuidados Pessoais|450.0|120|15/12/2027
+102|Sabonete|Sabonete Protex|90g Limpeza Profunda|Cuidados Pessoais|65.0|500|20/10/2026
+103|Pasta de Dentes|Pasta de Dentes Colgate|100ml Proteção Cáries|Cuidados Pessoais|95.0|300|05/05/2027
+104|Desodorizante|Desodorizante Nivea|50ml Roll-on Men|Cuidados Pessoais|185.0|150|11/08/2026
+105|Loção|Loção Johnson's Baby|200ml Hidratante|Cuidados Pessoais|210.0|80|30/01/2027
+106|Gel de Banho|Gel de Banho Dettol|250ml Antibacteriano|Cuidados Pessoais|175.0|100|14/03/2027
+107|Lâminas|Lâminas Gillette Blue II|Pack 5 unidades|Cuidados Pessoais|280.0|200|01/01/2030
+108|Pensos Higiénicos|Pensos Always Ultra|Pack 8 unidades|Cuidados Pessoais|140.0|400|12/12/2028
+109|Elixir Bucal|Elixir Bucal Listerine|500ml Menta Fresca|Cuidados Pessoais|390.0|90|22/06/2027
+110|Fio Dental|Fio Dental Oral-B|50 metros|Cuidados Pessoais|120.0|110|10/10/2029
+111|Creme Facial|Creme Facial Pond's|50ml Anti-Manchas|Cuidados Pessoais|320.0|60|18/09/2026
+112|Amaciador|Amaciador Dove|200ml Reparação|Cuidados Pessoais|295.0|75|05/02/2027

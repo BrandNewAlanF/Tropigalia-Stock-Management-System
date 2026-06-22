@@ -1,0 +1,11 @@
+200112233 | Mercearia do Bairro | Retalho | Bairro da Polana, Maputo | merc.polana@gmail.com | +258 841112233 | 45 | Classe A
+200223344 | Loja de Conveniência Galp | Retalho | Av. da Namaacha, Matola | galp.conven@galp.co.mz | +258 823334455 | 30 | Classe B
+200334455 | Cantina do Sr. Silva | Retalho | Bairro Central, Maputo | cantina.silva@outlook.com | +258 845556677 | 20 | Classe C
+200445566 | Minimercado Malhangalene | Retalho | Malhangalene, Maputo | malha.mini@teledata.mz | +258 21415566 | 65 | Classe B
+200556677 | Quiosque 24 Horas | Retalho | Av. Marginal, Maputo | q24h@marginal.co.mz | +258 849990011 | 15 | Classe A
+200667788 | Loja Popular Boane | Retalho | Vila de Boane | popular.boane@gmail.com | +258 824445556 | 80 | Classe C
+200778899 | Mercearia Noura | Retalho | Av. Kim Il Sung, Maputo | noura.merc@gmail.com | +258 841212121 | 40 | Classe A
+200889900 | Super-Rápido Matola | Retalho | Matola Rio | srapido@matola.co.mz | +258 843344556 | 50 | Classe B
+200990011 | Minimercado Chaimite | Retalho | Av. de Angola, Maputo | chaimite.mini@tdm.co.mz | +258 21404040 | 55 | Classe C
+201001122 | Loja Frescos da Vila | Retalho | Marracuene | frescos.vila@gmail.com | +258 847778899 | 100 | Classe B
+201112233 | Conveniência Total | Retalho | Av. Guerra Popular, Maputo | total.conv@totalenergies.co.mz | +258 821112223 | 25 | Classe B

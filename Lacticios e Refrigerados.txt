@@ -1,0 +1,12 @@
+401 | Leite | Leite Parmalat UHT | 1L Gordo | Laticínios e Refrigerados | 115.0 | 600 | 15/09/2025
+402 | Iogurte | Iogurte Danone | 100g Morango | Laticínios e Refrigerados | 35.0 | 800 | 05/06/2025
+403 | Queijo | Queijo Gouda | 400g Fatiado | Laticínios e Refrigerados | 480.0 | 120 | 20/07/2025
+404 | Manteiga | Manteiga Flora | 500g Margarina | Laticínios e Refrigerados | 195.0 | 300 | 10/08/2025
+405 | Ovos | Ovos de Galinha | Dúzia XL | Laticínios e Refrigerados | 160.0 | 250 | 30/06/2025
+406 | Requeijão | Requeijão Fresco | 250g | Laticínios e Refrigerados | 240.0 | 90 | 15/06/2025
+407 | Natas | Natas de Culinária | 200ml Parmalat | Laticínios e Refrigerados | 95.0 | 150 | 10/11/2025
+408 | Iogurte | Iogurte Líquido | 250ml Baunilha | Laticínios e Refrigerados | 65.0 | 400 | 12/06/2025
+409 | Queijo | Queijo Mozzarella | 200g Ralado | Laticínios e Refrigerados | 310.0 | 110 | 05/08/2025
+410 | Fiambre | Fiambre de Peru | 200g Fatiado | Laticínios e Refrigerados | 220.0 | 140 | 18/06/2025
+411 | Sumo Natural | Sumo de Laranja | 1L Extraído a Frio | Laticínios e Refrigerados | 180.0 | 80 | 10/06/2025
+412 | Sobremesa | Sobremesa Danette | Chocolate Duo | Laticínios e Refrigerados | 85.0 | 200 | 14/06/2025

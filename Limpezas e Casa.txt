@@ -1,0 +1,12 @@
+301 | Detergente | Detergente Omo | 1kg Pó Máquina | Limpeza e Casa | 220.0 | 350 | 10/10/2028
+302 | Lixívia | Lixívia Jik | 1L Regular | Limpeza e Casa | 85.0 | 400 | 05/05/2027
+303 | Amaciador | Amaciador Comfort | 800ml Concentrado | Limpeza e Casa | 310.0 | 150 | 12/12/2027
+304 | Detergente Loiça | Detergente Loiça Sunlight | 750ml Limão | Limpeza e Casa | 125.0 | 500 | 18/04/2027
+305 | Limpa Vidros | Limpa Vidros Windy | 500ml Spray | Limpeza e Casa | 140.0 | 120 | 20/01/2028
+306 | Desinfetante | Desinfetante Dettol | 500ml Líquido | Limpeza e Casa | 290.0 | 180 | 14/09/2027
+307 | Inseticida | Inseticida Doom | 300ml Spray | Limpeza e Casa | 260.0 | 250 | 11/03/2028
+308 | Papel Higiénico | Papel Higiénico Baby Soft | Pack 9 rolos | Limpeza e Casa | 340.0 | 300 | 01/01/2035
+309 | Sacos de Lixo | Sacos de Lixo | 30L Pack 20 | Limpeza e Casa | 95.0 | 400 | 01/01/2035
+310 | Esponjas | Esponjas Scotch-Brite | Pack 3 unidades | Limpeza e Casa | 110.0 | 200 | 01/01/2035
+311 | Ambientador | Ambientador Glade | 300ml Lavanda | Limpeza e Casa | 215.0 | 140 | 30/11/2027
+312 | Pastilhas | Pastilhas Máquina Loiça | Pack 20 Finish | Limpeza e Casa | 550.0 | 60 | 15/07/2028

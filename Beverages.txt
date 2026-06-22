@@ -1,0 +1,12 @@
+201 | Refrigerante | Coca-Cola Lata | 330ml Original | Bebidas | 45.0 | 1000 | 30/06/2025
+202 | Água | Água Vumba | 1.5L Mineral | Bebidas | 35.0 | 2000 | 15/10/2025
+203 | Sumo | Sumo Compal Pacote | 1L Manga | Bebidas | 110.0 | 450 | 20/01/2026
+204 | Cerveja | Cerveja 2M | 330ml Garrafa | Bebidas | 60.0 | 1200 | 11/11/2025
+205 | Chá Gelado | Ice Tea Lipton | 500ml Pêssego | Bebidas | 75.0 | 600 | 05/12/2025
+206 | Energético | Energético Monster | 500ml Lata | Bebidas | 150.0 | 300 | 14/08/2026
+207 | Refresco | Refresco Fanta Laranja | 2L Pet | Bebidas | 120.0 | 500 | 22/07/2025
+208 | Café | Café Nescafé Classic | 200g Frasco | Bebidas | 420.0 | 150 | 30/03/2027
+209 | Chá | Chá Five Roses | 100 Saquetas | Bebidas | 280.0 | 200 | 19/05/2027
+210 | Vinho | Vinho de Mesa | 750ml Tinto | Bebidas | 350.0 | 180 | 31/12/2029
+211 | Achocolatado | Leite com Chocolate Nesquik | 200ml Pack | Bebidas | 55.0 | 400 | 10/09/2025
+212 | Água Tónica | Tónica Schweppes | 300ml Lata | Bebidas | 50.0 | 700 | 15/02/2026

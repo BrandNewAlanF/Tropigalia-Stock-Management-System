@@ -1,0 +1,12 @@
+501 | Batatas | Batatas Fritas McCain | 1kg Corte Fino | Alimentos Congelados | 280.0 | 250 | 10/12/2026
+502 | Peixe | Filetes de Pescada | 500g Sea Harvest | Alimentos Congelados | 450.0 | 180 | 05/05/2026
+503 | Legumes | Ervilhas Congeladas | 1kg Nature's Garden | Alimentos Congelados | 190.0 | 200 | 15/10/2026
+504 | Pizza | Pizza Ristorante | Mozzarella Frozen | Alimentos Congelados | 520.0 | 100 | 20/01/2026
+505 | Carne | Hambúrgueres Bovino | Pack 4 unidades | Alimentos Congelados | 310.0 | 150 | 14/09/2026
+506 | Aves | Nuggets de Frango | 400g Rainbow | Alimentos Congelados | 295.0 | 130 | 30/03/2026
+507 | Gelado | Gelado Ola | 2L Baunilha | Alimentos Congelados | 490.0 | 80 | 22/12/2027
+508 | Legumes | Mistura de Vegetais | 1kg Salteado | Alimentos Congelados | 210.0 | 220 | 18/11/2026
+509 | Peixe | Postas de Salmão | 400g Congelado | Alimentos Congelados | 950.0 | 40 | 12/08/2026
+510 | Massa | Massa Folhada | 400g Rolo | Alimentos Congelados | 175.0 | 110 | 05/02/2026
+511 | Marisco | Camarão Médio | 500g Limpo | Alimentos Congelados | 850.0 | 60 | 19/07/2026
+512 | Bolachas Congeladas | Massa de Cookies | 500g Pronta a Cozer | Alimentos Congelados | 380.0 | 50 | 10/11/2025
