@@ -75,3 +75,5 @@ This process aims to improve maintainability, scalability, and code organization
 ## Motivation
 
 Tropigália was selected as the business case because of its relevance within the Mozambican wholesale distribution sector and the complexity of its inventory operations, making it an excellent environment for studying stock management systems and business rules.
+
+https://github.com/user-attachments/assets/5e7eb85d-ecf7-49a6-8e76-018ba4a7a5fb
